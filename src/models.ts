@@ -9,4 +9,4 @@ export default interface Iproduct {
     rate: number,
     count: number
   }
-};
+}
